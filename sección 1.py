@@ -13,5 +13,4 @@ print(anio_actual - anio_nacimiento)
 pi = 3.14159265359
 print(f"el valor de pi es {pi: .5}")
 #el tipo de variable entero es int, por lo que fuerza a que se convierta en un #entero, pero una variable de cadena es un str, o sea solo de texto.
-
-
+#el tipo de variable entero es int, por lo que fuerza a que se convierta en un #entero, pero una variable de cadena es un str, o sea solo de texto.
