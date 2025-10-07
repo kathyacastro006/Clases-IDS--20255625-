@@ -13,7 +13,9 @@ print(menor_igualque)"""""
 """x = 10
 y = 10
 print(x is y)
+print(x is not y)"""
 """numero_par_impar = int(input("escriba un número, por favor: "))
+es_par = (numero_par_impar %2 ==0 )
 print(es_par)
 #crea una variable booleana registrado = True. Usa operadores lógicos (and, or, not) para mostrar combinaciones posibles."""
 """numero1 = input("escriba un número: ")
